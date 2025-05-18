@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProductAccountingSystem.AddCategoryForm">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BAAABAAAACAAABAAAACAAAACAAAYAAAAkGAgAAAAAAA=</HashCode>
+      <FileName>AddCategoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.AddLeftoverForm">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BAAgBAAAACAACBASAACIAAACAAAYAAAAAGAgAAAAAAA=</HashCode>
+      <FileName>AddLeftoverForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.AddProductForm">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BCAABAAAACAAABAQAACAgAhCAAAYAAAAkGAgAAAAAAA=</HashCode>
+      <FileName>AddProductForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.AddSaleForm">
+    <Position X="16.75" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BAIABAABACAAABASAACIAAACAAAYAAAAEGAgAAAAAAA=</HashCode>
+      <FileName>AddSaleForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.AddStorageForm">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BCAABAAAACAAAJAAAACAAABCAAAYAAAAEGAgAAAAAAA=</HashCode>
+      <FileName>AddStorageForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.AddStoreForm">
+    <Position X="18.5" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BCAABAAAACAACBAQAACAAABCEAAYAAAAEGAgAAAAAAA=</HashCode>
+      <FileName>AddStoreForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.AddSubcategoryForm">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BCAABIAAACAAEBAQAACAAAACAAAYAAAAAGAgAAAAAAA=</HashCode>
+      <FileName>AddSubcategoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.AddSupplierForm">
+    <Position X="9.75" Y="6.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BCAABAAAACAAABAAAACAAABCAAAYAAAAEGAgAAAIAAA=</HashCode>
+      <FileName>AddSupplierForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.AddUserForm">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BCABBAAAASAAABCQAACAAABCIAAZAAAAEGAgAAAAAAA=</HashCode>
+      <FileName>AddUserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.AuthorizationForm">
+    <Position X="8" Y="7.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACCwAAAAACAAABAAAACAAAACEAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>AuthorizationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.MainForm">
+    <Position X="13.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="ProductAccountingSystem.MainForm.ActiveTab" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>YaIIC/2YSmPAA1pEShiEyC+CEMg5UAACEvw9DQBegAQ=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.SortingProductsForm">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAACAiIAIBAAAACAAAACAAAYAAAAMWAAAAAIAAA=</HashCode>
+      <FileName>SortingProductsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.StatisticsForm">
+    <Position X="15" Y="7" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAAAACAACAAABAYAACAAAACABoIAAAAAERAAAAAAAA=</HashCode>
+      <FileName>StatisticsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.UpdateCategoryForm">
+    <Position X="11.5" Y="7.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAABACACAAABAAAACABAACAAAYAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>UpdateCategoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.UpdateLeftoverForm">
+    <Position X="11.5" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAACBgSAACIAAACAAAYAAABAGAAAAAACAA=</HashCode>
+      <FileName>UpdateLeftoverForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.UpdateProductForm">
+    <Position X="18.5" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAABAAACAAABgQAACAAAhCAAAYAAAAkGAAAAAAAAA=</HashCode>
+      <FileName>UpdateProductForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.UpdateSaleForm">
+    <Position X="15" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQQAAABACAAABgSAACIAAACAAAYAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>UpdateSaleForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.UpdateStorageForm">
+    <Position X="15" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAABADAAABCAAAYAAAAEGAAAAEAAAA=</HashCode>
+      <FileName>UpdateStorageForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.UpdateStoreForm">
+    <Position X="9.75" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAACBgQAACAAABCABAYAAAAEGCAAAAAAAA=</HashCode>
+      <FileName>UpdateStoreForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.UpdateSubcategoryForm">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAEBgQAACQAAACAgAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>UpdateSubcategoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductAccountingSystem.UpdateSupplierForm">
+    <Position X="16.75" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAACAAABAAAACEDABSAAAYAAAAEGBAAAAAAAA=</HashCode>
+      <FileName>UpdateSupplierForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
